@@ -4,6 +4,7 @@
     "version": "1.0",
     "description": "Tracks the learning progress of user.",
     "action": {
+      "default_popup": "popup.html",
       "default_title": "Performance Tracker"
     },
     "background": {
