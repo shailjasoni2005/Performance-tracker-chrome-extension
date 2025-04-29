@@ -1,5 +1,11 @@
 A Chrome extension designed to help students monitor their academic progress, set study goals, and stay motivated. This tool allows users to track their daily performance, get personalized feedback, and visualize their improvement over time.
 
+Screen shot of project:-
+
+## 🏠 Homepage
+
+![Homepage Screenshot](src/assets/homepage.jpeg)
+
 🚀 Features
 
 ✅ Daily Performance Tracking: Record your study hours, tasks completed, and productivity scores.
